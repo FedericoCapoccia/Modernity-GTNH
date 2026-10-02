@@ -4,7 +4,8 @@
     "description": "§bModernity-GTNH-v1.5.6"
   },
   "myctmlib": {
-    "enableBeeJsonModels": true,
+    "enableBeeJsonModels": false,
     "enableAe2JsonModels": true
   }
 }
+
